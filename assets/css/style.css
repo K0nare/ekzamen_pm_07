@@ -1,0 +1,8 @@
+/* assets/css/style.css */
+/* Дополнительные кастомные стили */
+.table th {
+    background-color: #e9ecef;
+}
+.card-header {
+    font-size: 1.25rem;
+}
